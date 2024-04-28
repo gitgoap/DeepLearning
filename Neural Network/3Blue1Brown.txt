@@ -3,7 +3,9 @@ Youtube Playlist follows: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R
 Review: Very high-quality content, easy to understand
 
 
-Amazing visualisation: https://www.3blue1brown.com/lessons/neural-networks
+Amazing visualisation for lesson/video 1: https://www.3blue1brown.com/lessons/neural-networks
+
+All videos 1-6 documented: https://www.3blue1brown.com/topics/neural-networks
 
 Book recommended in the above site: http://neuralnetworksanddeeplearning.com/
 
