@@ -5,6 +5,8 @@ Review: Very high-quality content, easy to understand
 
 Amazing visualisation for lesson/video 1: https://www.3blue1brown.com/lessons/neural-networks
 
+Understanding Gradient vector (Khan Academy course made by 3blue1brown): https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient
+
 All videos 1-6 documented: https://www.3blue1brown.com/topics/neural-networks
 
 Book recommended in the above site: http://neuralnetworksanddeeplearning.com/
